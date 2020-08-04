@@ -9,7 +9,7 @@ Providing a secure, open-source password managing service to all Internet users 
 | Project lead, backend dev  | front end dev  |
 
 >We are open for collaboration. Are you passionate in user security just like us? Got skills that you think can help this project? 
-[Feel free to join our team.](http://techraj156.com "Click to request")
+[Feel free to join our team.](https://tejaswaroop.tech/upcoming-passwordzz "Click to request")
 
 ### More about passwordzz.
 Have you ever used the same password for multiple websites (or you still are)? That’s a BAD idea. What if one of the websites suffered a data breach? That would expose your password which is common for multiple websites.  The best practice is to use a unique, randomly-generated strong password for each website you’re signing in, on the Internet. That obviously involves a lot of brain work as you would need to remember passwords for every website you use, and these passwords aren’t even easy to memorize, because they are randomly generated, and also very long (that’s what makes them strong). So you would use a password manager that generates these random strong passwords, and also remembers them for you. All you need to remember is a MASTER PASSWORD using which you can unlock all the other passwords on your password manager. 
